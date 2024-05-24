@@ -2,7 +2,7 @@
 ## Problem statement
 This dataset has a collection of Tweets. Its labelled as Toxic - 1, Non toxic - 0. Apply the NLP
 
-# methods to predict the toxicity of the tweets. 
+# Methods to predict the toxicity of the tweets. 
 Download the dataset from the following Kaggle Com-pitation https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset. 
 Allthe credits to the original collectors.
 
